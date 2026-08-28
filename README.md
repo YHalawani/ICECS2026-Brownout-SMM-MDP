@@ -1,6 +1,6 @@
 # MATLAB implementation of the SMM-MDP method used in the ICECS 2026 paper:
 
-**"Brownout-Aware Energy Management for Wearable Health Patches Using SMM--MDP Optimization."**
+**"Brownout-Aware Energy Management for Wearable Health Patches Using SMM-MDP Optimization."**
 
 The repository contains the code used to derive the three-state SMM workload from the MMASH dataset, model battery energy depletion and loaded-voltage constraints, optimize brownout-blind and brownout-aware policies, perform Monte Carlo evaluation, carry out the matched-service analysis, and recreate the paper figure.
 
