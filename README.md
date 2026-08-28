@@ -1,6 +1,4 @@
-# Brownout-Aware Wearable Energy Management
-
-MATLAB implementation of the SMM--MDP method used in the ICECS 2026 paper:
+# MATLAB implementation of the SMM--MDP method used in the ICECS 2026 paper:
 
 **"Brownout-Aware Energy Management for Wearable Health Patches Using SMM--MDP Optimization."**
 
