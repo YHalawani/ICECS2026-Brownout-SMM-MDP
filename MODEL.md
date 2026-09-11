@@ -540,27 +540,7 @@ At every resistance value:
 
 Thus, the sensitivity analysis does not evaluate a nominal policy under a different resistance; the policy itself is re-optimized for each resistance value.
 
-## 9. Energy-Grid Sensitivity
-
-Grid sizes
-
-```text
-N_E = [200 400 800 1600]
-```
-
-were evaluated during model refinement.
-
-Between `N_E = 800` and `N_E = 1600`, the maximum change across the CR1632 `lambda_QoS` sweep was:
-
-- lifetime: `1.46%`;
-- TX rate: `0.93%`;
-- overall QoS: `0.47%`.
-
-These changes are within the predefined 2% numerical convergence criterion for the reported performance metrics.
-
-Termination classification is more sensitive to grid resolution near the loaded-voltage feasibility boundary; termination percentages should therefore be interpreted at the stated grid size.
-
-## 10. Model Scope and Assumptions
+## 9. Model Scope and Assumptions
 
 The implementation is a system-level simulation rather than a measured hardware prototype model. Its main assumptions include:
 
