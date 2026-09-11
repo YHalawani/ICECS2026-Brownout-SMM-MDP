@@ -1,4 +1,4 @@
-# MATLAB Implementation of the SMM-MDP Method Used in the ICECS 2026 Paper
+# MATLAB Implementation of the SMM-MDP Framework Used in the ICECS 2026 Paper
 
 **"Brownout-Aware Energy Management for Wearable Health Patches Using SMM-MDP Optimization"**
 
